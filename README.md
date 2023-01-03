@@ -18,8 +18,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="Vijay_gawte_blogs" width="22px" />
 </a></p>
 
-![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
-
 🏢 I’m currently working in [Konverge](https://konverge.ai/) as **Software Engineer (DevOps)**
 
 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
