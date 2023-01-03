@@ -2,24 +2,20 @@
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/yatharth7" target="blank">
+<a href="https://linkedin.com/in/vijay-gawate-a657101a2" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
+<a href="https://www.facebook.com/vijay.gawte.1" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="vijay.gawte.1" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://fb.com/yatharth.sharma.31" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
+<a href="https://instagram.com/_survivor_v18" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="_survivor_v18" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://instagram.com/yatharth_sharma_7" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
-</a>
-  &nbsp;&nbsp;
-<a href="https://yatharthsharma.home.blog/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
+<a href="https://medium.com/@vijaygawate79/gitops-for-kubernetes-deployment-e2a842bb8e3f" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="Vijay_gawte_blogs" width="22px" />
 </a></p>
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
