@@ -51,7 +51,7 @@
 - 🎖 Terraform Associate - udemy 
 
 
-#### Programming Language Stack
+#### Programming Languages Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/> </p>
 
 #### OS Stack
